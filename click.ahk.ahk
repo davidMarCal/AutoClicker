@@ -14,6 +14,6 @@ f11::   ;Change f11 for any other key in order to change the activation key
 	while (banana)
 	{
 		send, {lbutton}
-		sleep, 0.1 :Change the number to stablish a new delay between clicks
+		sleep, 0.1 ;Change the number to stablish a new delay between clicks
 	}
 return
